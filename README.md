@@ -36,7 +36,7 @@ Ports used for the services are=>
 <img src="img/img7.png"> <br/>
 
 
-The final step of the project is to be done by deploying the microaervice into the docker platform and do the analysis.As I have still to learn the docker and kubernetes cloud cluster.
+The final step of the project is to be done by deploying the microaervice into the docker platform and do the analysis.As I have still to learn the docker and kubernetes cloud cluster I have kept it for a later phase.
 
 
 
